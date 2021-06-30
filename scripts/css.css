@@ -15,6 +15,13 @@ body{
   background-repeat: repeat-y;
 }
 
+baebody{
+  padding: 0;
+  background-image: url("../images/Backgrounds/BaeBackground.png");
+  background-size: cover;
+  background-repeat: repeat-y;
+}
+
 background: url(image url) 
 
 /* FONT STYLING */
