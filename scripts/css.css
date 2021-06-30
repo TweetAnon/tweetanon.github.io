@@ -124,7 +124,7 @@ h2{
 
 .baearea{
   position: fixed;
-  top: 70%;
+  top: 50%;
   left: 50%;
   margin-right: -50%;
   transform: translate(-50%, -50%);
@@ -133,5 +133,5 @@ h2{
 
 #countup, #countuptwo{
   position: relative;
-  top:75%;
+  top:55%;
 }
