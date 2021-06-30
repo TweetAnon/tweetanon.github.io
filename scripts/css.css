@@ -123,10 +123,12 @@ h2{
 /* BAE STYLING */
 
 .thebae{
-  padding: 0;
+  height: 100%;
+  width: 100%;
   background-image: url("../images/Backgrounds/BaeBackground.png");
   background-size: cover;
   background-repeat: repeat-y;
+  position: fixed;
 }
 
 .baearea{
