@@ -21,9 +21,7 @@ function loopstats() {
 };
 
 function datetime_diff() {
-	var then = moment('2021-07-01 12:00:00');
-	// Original Date: 2016-07-10 16:25:00
-	// Date adjusted for time apart because I'm lazy and don't want to edit the code
+	var then = moment('2021-07-01 00:00:00');
 	var now = moment();
 	var diff = moment.preciseDiff(then, now);
 	count.innerHTML = diff;
